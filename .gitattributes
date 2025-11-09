@@ -1,0 +1,6 @@
+# Ignorar código nativo en el análisis de lenguajes
+android/** linguist-vendored
+ios/** linguist-vendored
+macos/** linguist-vendored
+windows/** linguist-vendored
+linux/** linguist-vendored
